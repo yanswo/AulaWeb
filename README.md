@@ -3,7 +3,7 @@
 ## Como usar a aplicação
 
 
-### Primeiro precisamos passar o codigo abaixo para instalar as dependências.
+### Primeiro precisamos passar o codigo abaixo no terminal do VSCODE para instalar as dependências.
 
 ```bash
 npm install
